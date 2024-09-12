@@ -36,18 +36,18 @@ int main() {
     std::ofstream archivoSalida("salida.txt");
 
     if (archivoSalida) {
-        archivoSalida << "La distancia entre Sagrada Familia y Parque Güell (AB) es: "
+        archivoSalida << "La distància entre Sagrada Familia i Parc Güell (AB) és: "
                       << distanciaAB << " km." << std::endl;
-        archivoSalida << "La distancia entre Sagrada Familia y La Pedrera (AC) es: "
+        archivoSalida << "La distància entre Sagrada Familia i La Pedrera (AC) és: "
                       << distanciaAC << " km." << std::endl;
-        archivoSalida << "La distancia entre Parque Güell y La Pedrera (BC) es: "
+        archivoSalida << "La distància entre Parc Güell i La Pedrera (BC) és: "
                       << distanciaBC << " km." << std::endl;
-        archivoSalida << "La distancia más corta es entre los puntos: " << distanciaMasCorta
-                      << " con una distancia de " << distanciaMinima << " km." << std::endl;
+        archivoSalida << "La distància més curta és entre els punts: " << distanciaMasCorta
+                      << " amb una distància de " << distanciaMinima << " km." << std::endl;
         
         archivoSalida.close();
     } else {
-        std::cerr << "Error al abrir el archivo de salida." << std::endl;
+        std::cerr << "Error al obrir l'arxiu de sortida." << std::endl;
     }
 
     return 0;

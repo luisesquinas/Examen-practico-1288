@@ -1,4 +1,4 @@
-La distancia entre Sagrada Familia y Parque Güell (AB) es: 2.17809 km.
-La distancia entre Sagrada Familia y La Pedrera (AC) es: 1.38507 km.
-La distancia entre Parque Güell y La Pedrera (BC) es: 2.25818 km.
-La distancia más corta es entre los puntos: AC con una distancia de 1.38507 km.
+La distància entre Sagrada Familia i Parc Güell (AB) és: 2.17809 km.
+La distància entre Sagrada Familia i La Pedrera (AC) és: 1.38507 km.
+La distància entre Parc Güell i La Pedrera (BC) és: 2.25818 km.
+La distància més curta és entre els punts: AC amb una distància de 1.38507 km.
